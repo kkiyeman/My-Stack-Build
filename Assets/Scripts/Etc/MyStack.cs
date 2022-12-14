@@ -64,7 +64,7 @@ public class MyStack
         if (Count > 0)
         {
             p = number[--Count];
-                       
+                        
         }
         else if (Count <= 0)
         {
